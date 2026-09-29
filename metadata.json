@@ -1,0 +1,6 @@
+{
+  "name": "Wira Logistics Centre | Wiraland Gudang",
+  "description": "Kawasan pergudangan dan logistik modern 16 Ha dari Wiraland Property Group di Jl. Raya Medan - Tanjung Morawa KM 21. Dilengkapi ROW 24m, konsep 9-in-1, dan akses tol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
